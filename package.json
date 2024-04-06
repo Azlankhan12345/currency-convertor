@@ -1,0 +1,25 @@
+{
+  "name": "azlan_currency_convertor_6777",
+  "version": "1.0.2",
+  "description": "This is a todo azlan_currency_convertor_6777",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azlan_currency_convertor6777": "^1.0.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.2"
+  }
+}
